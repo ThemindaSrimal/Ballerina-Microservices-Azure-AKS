@@ -21,3 +21,4 @@ stages:
           unzip -d /opt ballerina-1.3.9.zip
           /opt/ballerina-1.3.9/bin/bal build main.bal
         displayName: 'Download and install Ballerina SDK'
+        
